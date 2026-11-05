@@ -1,0 +1,70 @@
+{
+  "item": {
+    "id": "979820261101",
+    "restype": "watchface",
+    "name": "方块纪元",
+    "description": "方块纪元是跑在小米手环 / 红米手表上的 2.5D 方块世界表盘游戏。支持生存与创造、挖放方块、背包与护甲、村庄与夜间僵尸，沙盒游戏。目前在小米手环9上运行非常流畅，后面的设备会比前面的更流畅，不支持米环8和8pro(固件不适配,后续会针对固件适配)",
+    "preview": [
+      "media/42b26565e3370ce548d3f646140c5c435909283fb38d774e358a00ea578804c9.png",
+      "media/e0231d0f890c8f10efb2b06f619c20193dbc1f7bb3449ca5006fc65db82ebd8f.png",
+      "media/05-pause-or-settings.png",
+      "media/04-creative.png",
+      "media/03-inventory.png",
+      "media/02-gameplay.png",
+      "media/01-menu.png"
+    ],
+    "icon": "media/圆角-BlockEra-icon-512 (1).png",
+    "cover": "media/BlockEra-cover-1200x800.png",
+    "author": [
+      {
+        "name": "cahkcs",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电",
+      "url": "https://ifdian.net/item/6dc47a10d93a11f1a4b552540025c377",
+      "icon": "facebook-logo"
+    },
+    {
+      "title": "官网",
+      "url": "https://mi.steam.cab/",
+      "icon": "github-logo"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.1",
+      "file_name": "downloads/BlockEra-redmiwatch6.face",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "0.0.1",
+      "file_name": "downloads/BlockEra-band10pro.face",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "0.0.1",
+      "file_name": "downloads/BlockEra-band10pro.face",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "0.0.1",
+      "file_name": "downloads/BlockEra-band10.face",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "0.0.1",
+      "file_name": "downloads/BlockEra-band10.face",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "0.0.1",
+      "file_name": "downloads/BlockEra-band10.face",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
